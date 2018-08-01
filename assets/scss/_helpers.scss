@@ -1,0 +1,12 @@
+.centre-aligner {
+	display: flex;
+    display:-webkit-flex; 
+    align-items: center;
+    -webkit-align-items: center;
+    justify-content: flex-start;
+    -webkit-justify-content: center;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
